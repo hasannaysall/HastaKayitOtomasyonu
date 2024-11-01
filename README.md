@@ -1,3 +1,11 @@
+Hasta Kayıt Otomasyonu
+
+210260063	Hasan Aysal
+
+230260189	Ahmet Enes KIRANŞAL
+
+200260083	Umut Doruk ÇAĞLAYAN
+
 1. Proje Tanımı
  
 Proje, bir sağlık kuruluşu için hasta yönetimi ve tedavi sürecini takip etmeye yönelik bir veritabanı sistemidir. Sistem, hastalar, doktorlar, hemşireler, ilaçlar, hastalıklar, alerjiler, refakatçiler ve taburcu süreçleri ile ilgili bilgileri içerir.
