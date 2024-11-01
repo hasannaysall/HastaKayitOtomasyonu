@@ -176,4 +176,3 @@ E-R Diyagramı
 
 
 ![tablo](https://github.com/user-attachments/assets/c3585b67-5f3d-4670-a678-92144eea21af)
-[H (2).pdf](https://github.com/user-attachments/files/17604237/H.2.pdf)
