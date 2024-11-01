@@ -4,11 +4,11 @@
 
 
 3. Kullanıcı Rolleri
-Hasta: Sağlık hizmetlerinden yararlanan birey.
-Doktor: Hastaların tedavi süreçlerini yöneten sağlık profesyoneli.
-Hemşire: Hastaların bakımını üstlenen sağlık personeli.
-Refakatçi: Hastaya destek sağlayan kişi.
-Yönetici: Veritabanını yöneten ve düzenlemeler yapan kişi.
+*Hasta: Sağlık hizmetlerinden yararlanan birey.
+*Doktor: Hastaların tedavi süreçlerini yöneten sağlık profesyoneli.
+*Hemşire: Hastaların bakımını üstlenen sağlık personeli.
+*Refakatçi: Hastaya destek sağlayan kişi.
+*Yönetici: Veritabanını yöneten ve düzenlemeler yapan kişi.
 
 
 
