@@ -1,5 +1,4 @@
-1. Proje Tanımı
-Proje, bir sağlık kuruluşu için hasta yönetimi ve tedavi sürecini takip etmeye yönelik bir veritabanı sistemidir. Sistem, hastalar, doktorlar, hemşireler, ilaçlar, hastalıklar, alerjiler, refakatçiler ve taburcu süreçleri ile ilgili bilgileri içerir.
+1. Proje Tanımı Proje, bir sağlık kuruluşu için hasta yönetimi ve tedavi sürecini takip etmeye yönelik bir veritabanı sistemidir. Sistem, hastalar, doktorlar, hemşireler, ilaçlar, hastalıklar, alerjiler, refakatçiler ve taburcu süreçleri ile ilgili bilgileri içerir.
 
 
 
