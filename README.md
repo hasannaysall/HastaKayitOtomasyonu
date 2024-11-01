@@ -171,3 +171,8 @@ Yönetici, veritabanını yönetebilir ve güncelleyebilir.
 
 Yönetici, kullanıcı erişimlerini düzenleyebilir.
 
+
+E-R Diyagramı
+
+
+![tablo](https://github.com/user-attachments/assets/c3585b67-5f3d-4670-a678-92144eea21af)
