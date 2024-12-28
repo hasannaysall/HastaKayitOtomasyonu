@@ -4,7 +4,6 @@ Hasta Kayıt Otomasyonu
 
 230260189	Ahmet Enes KIRANŞAL
 
-200260083	Umut Doruk ÇAĞLAYAN
 
 1. Proje Tanımı
  
