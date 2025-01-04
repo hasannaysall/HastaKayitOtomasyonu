@@ -1,0 +1,16 @@
+CREATE PROCEDURE HastaEkle(
+    @Ad NVARCHAR(50),
+    @Soyad NVARCHAR(50),
+    @HastalıkID INT,
+    @DoktorID INT,
+    @İlacID INT,
+    @HemşireID INT,
+    @AlerjiID INT,
+    @RefakatçiID INT,
+    @GirişTarihi DATE
+)
+AS
+BEGIN
+    INSERT INTO Hasta (Ad, Soyad, HastalıkID, DoktorID, İlacID, HemşireID, AlerjiID, RefakatçiID, GirişTarihi)
+    VALUES (@Ad, @Soyad, @HastalıkID, @DoktorID, @İlacID, @HemşireID, @AlerjiID, @RefakatçiID, @GirişTarihi);
+END;
