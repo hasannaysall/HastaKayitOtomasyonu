@@ -68,4 +68,4 @@ E-R Diyagramı
 
 ![tablo](https://github.com/user-attachments/assets/4f4d0d6e-219d-442b-9305-d15c37790ff1)
 
-
+[2_210260063_230260189.pdf](https://github.com/user-attachments/files/18311667/2_210260063_230260189.pdf)
