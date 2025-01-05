@@ -66,5 +66,6 @@ Proje, bir sağlık kuruluşu için hasta yönetimi ve tedavi sürecini takip et
 E-R Diyagramı
 
 
-![tablo](https://github.com/user-attachments/assets/b5f62e74-daf3-4e85-804c-2bb69b96ff1f)
+![tablo](https://github.com/user-attachments/assets/4f4d0d6e-219d-442b-9305-d15c37790ff1)
+
 
