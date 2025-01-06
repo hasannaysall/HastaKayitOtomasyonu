@@ -3,11 +3,11 @@ BEGIN TRANSACTION;
 
 BEGIN TRY
    
-    INSERT INTO Hasta (Ad, Soyad, HastalıkID, DoktorID, İlacID, HemşireID, AlerjiID, RefakatçiID, GirişTarihi)
+    INSERT INTO Hasta (Ad, Soyad, HastalıkID, DoktorID, IlacID, HemşireID, AlerjiID, RefakatçiID, GirişTarihi)
     VALUES ('Mehmet', 'Yıldız', 2, 3, 1, 4, 2, 5, '2025-01-01');
 
 
-    INSERT INTO İlac (İlaçAdı, HastalıkID, STT)
+    INSERT INTO Ilac (IlacAdı, HastalıkID, STT)
     VALUES ('Yeni İlaç', 2, '2026-12-01');
 
  
